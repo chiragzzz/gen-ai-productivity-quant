@@ -14,6 +14,7 @@ To apply Generative AI (e.g., ChatGPT, Claude, GitHub Copilot) for:
 
 ## 📁 Structure
 
+```
 genai-quant-productivity/
 ├── README.md
 ├── 01_prompt_engineering/
@@ -26,6 +27,7 @@ genai-quant-productivity/
 │   └── [LLM-generated quant research docs, reports]
 ├── 05_reflections/
 │   └── [Insights, productivity gains, limits of Gen AI]
+```
 
 
 
