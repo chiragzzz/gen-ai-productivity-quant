@@ -1,6 +1,6 @@
 # 🤖 GenAI for Quantitative Research
 
-This repository showcases practical projects where Large Language Models (LLMs) like GPT-4, Claude, and Mistral are used to **accelerate real-world Quantitative Research workflows**. It is built by a quant aspirant preparing for roles in top firms (e.g., Morgan Stanley, JPMorgan) and includes tools, prompts, and utilities to improve productivity across strategy design, reporting, and documentation.
+This repository showcases practical projects where Large Language Models (LLMs) like GPT-4, Claude, and Mistral are used to **accelerate real-world Quantitative Research workflows**. It includes tools, prompts, and utilities to improve productivity across strategy design, reporting, and documentation.
 
 ---
 
